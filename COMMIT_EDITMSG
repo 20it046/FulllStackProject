@@ -1,0 +1,42 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch backend
+# Your branch is ahead of 'origin/backend' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   src/app/app-routing.module.ts
+#	new file:   src/app/dashboard/components/dashboard/dashboard.component.css
+#	new file:   src/app/dashboard/components/dashboard/dashboard.component.html
+#	new file:   src/app/dashboard/components/dashboard/dashboard.component.spec.ts
+#	new file:   src/app/dashboard/components/dashboard/dashboard.component.ts
+#	new file:   src/app/dashboard/components/display-experience/display-experience.component.css
+#	new file:   src/app/dashboard/components/display-experience/display-experience.component.html
+#	new file:   src/app/dashboard/components/display-experience/display-experience.component.spec.ts
+#	new file:   src/app/dashboard/components/display-experience/display-experience.component.ts
+#	modified:   src/app/dashboard/dashboard-routing.module.ts
+#	modified:   src/app/dashboard/dashboard.module.ts
+#	new file:   src/app/profile/components/form/add-experience/add-experience.component.css
+#	new file:   src/app/profile/components/form/add-experience/add-experience.component.html
+#	new file:   src/app/profile/components/form/add-experience/add-experience.component.spec.ts
+#	new file:   src/app/profile/components/form/add-experience/add-experience.component.ts
+#	new file:   src/app/profile/components/form/create-profile/create-profile.component.css
+#	new file:   src/app/profile/components/form/create-profile/create-profile.component.html
+#	new file:   src/app/profile/components/form/create-profile/create-profile.component.spec.ts
+#	new file:   src/app/profile/components/form/create-profile/create-profile.component.ts
+#	modified:   src/app/profile/profile-routing.module.ts
+#	modified:   src/app/profile/profile.module.ts
+#	new file:   src/app/profile/services/profile.service.spec.ts
+#	new file:   src/app/profile/services/profile.service.ts
+#	new file:   src/app/shared/guards/auth.guard.spec.ts
+#	new file:   src/app/shared/guards/auth.guard.ts
+#	new file:   src/app/shared/interceptors/index.ts
+#	new file:   src/app/shared/interceptors/token.interceptor.spec.ts
+#	new file:   src/app/shared/interceptors/token.interceptor.ts
+#	new file:   src/app/shared/shared.module.ts
+#	modified:   src/app/user/components/auth/register/register.component.html
+#	modified:   src/app/user/components/auth/register/register.component.ts
+#	modified:   src/index.html
+#
